@@ -16,9 +16,9 @@ This application was written in java with database handled in MS-SQL (t-sql)
 Project can be opened in NetBeans. If you are using a different IDE please follow the instructions below:
 
 Please install following libraries from "LMS/Support Files" before running code:
--jdbc
--mailactivation
--jcalender
+- jdbc
+- mailactivation
+- jcalender
 
 For windows authentication please copy mssql-jdbc_auth-8.4.1.x64.dll from "LMS/Support Files/sqljdbc_8.4/enu/auth/x64" to the directory "<Where java is installed>/jdk-xx.x.x/bin"
 
