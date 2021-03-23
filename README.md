@@ -7,9 +7,9 @@ This application was written in java with database handled in MS-SQL (t-sql)
 
 ## Project Contribution
 
-- GUI: Zainab Rehan
-- Business Layer: Haissam Tariq
-- SQL Database: Haissam Tariq and Zainab Rehan
+- GUI: [Zainab Rehan](https://github.com/zainab-rehan)
+- Business Layer: [Haissam Tariq Zaman](https://github.com/haissamtariqzaman)
+- SQL Database: [Haissam Tariq Zaman](https://github.com/haissamtariqzaman) and [Zainab Rehan](https://github.com/zainab-rehan)
 
 ## Compilation Instructions
 
